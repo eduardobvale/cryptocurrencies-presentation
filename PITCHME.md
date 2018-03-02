@@ -39,7 +39,7 @@ Wallet
 
 Mineração
 
-![](http://online.wsj.com/media/0201_cio_ledg_G_20160201185005.jpg)
+![](https://amp.businessinsider.com/images/5a1a7e57ec1ade76c000e8cc-750-375.jpg)
 
 ---
 
@@ -62,7 +62,7 @@ Exchanges (Câmbio)
 
 ### E como é que isso funciona sem um banco?
 
-Blockchain
+![](http://online.wsj.com/media/0201_cio_ledg_G_20160201185005.jpg)
 
 
 ---
