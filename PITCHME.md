@@ -45,12 +45,15 @@ Exchanges (Câmbio)
 
 ![](https://d1ic4altzx8ueg.cloudfront.net/finder-us/wp-uploads/2017/09/Exodus-wallet-interface-screenshot.png)
 
-
----?image=https://cdn-images-1.medium.com/max/800/1*jQV4HSp5PE0lnd2ipNfzZg.jpeg
+---
 
 ### Achou que ia ficar rico?
 
-- [Mercado financeiro](https://br.tradingview.com/symbols/BTCUSD/)
+---?image=https://cdn-images-1.medium.com/max/800/1*jQV4HSp5PE0lnd2ipNfzZg.jpeg
+
+---
+
+- [Conheça o Mercado financeiro](https://br.tradingview.com/symbols/BTCUSD/)
 - Invista em conhecimento
 
 ---
