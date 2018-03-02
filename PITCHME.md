@@ -1,4 +1,6 @@
-###  Você acredita em Bitcoin?
+---?image=http://www.laparola.com.br/wp-content/uploads/2015/10/50maind_teorias-da-conspira%C3%A7%C3%A3o-1021x580.jpg
+
+<h1 style="color:red">Você acredita em Bitcoin?</span>
 
 ---
 
