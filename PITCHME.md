@@ -1,4 +1,4 @@
-# Você acredita em Bitcoin?
+### Você acredita em Bitcoin?
 
 ---
 
@@ -9,7 +9,7 @@
 
 ---
 
-Definição
+###Definição
 
 - Primeira moeda digital descentralizada
 - Diretamente de pessoa para pessoa
@@ -18,10 +18,10 @@ Definição
 
 ---
 
-Conteúdo
+###Conteúdo
 
-- Filme: Rise and Rise of Bitcoin - http://www.imdb.com/title/tt2821314/
-- Livro: Mastering Bitcoin
+- Filme: ![Rise and Rise of Bitcoin](http://www.imdb.com/title/tt2821314/)
+- Livro: ![Mastering Bitcoin](https://www.amazon.com.br/Mastering-Bitcoin-2e-Andreas-Antonopoulos)
 
 ---
 
@@ -48,20 +48,20 @@ Exchanges (Câmbio)
 
 ---
 
-E eu posso ficar rico com bitcoin?
+###E eu posso ficar rico com bitcoin?
 
-- Mercado financeiro - https://br.tradingview.com/symbols/BTCUSD/
+- ![Mercado financeiro](https://br.tradingview.com/symbols/BTCUSD/)
 - Invista em conhecimento
 
 ---
 
-E como é que isso funciona sem um banco? Quem controla esta bagaça?
-- Blockchain: Descentralização baseada na rede e criptografia
+###E como é que isso funciona sem um banco?
+Blockchain
 
 
 ---
 
-#Blockchain só serve pra bitcoin?
+###Blockchain só serve pra bitcoin?
   - Altcoins
   https://coinmarketcap.com/pt-br/all/views/all/
   - ICOs
