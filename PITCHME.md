@@ -64,6 +64,14 @@ Exchanges (Câmbio)
 
 ![](http://online.wsj.com/media/0201_cio_ledg_G_20160201185005.jpg)
 
+---
+
+### Conteúdo
+
+- [Explicaço 5 minutos](https://www.youtube.com/watch?v=SSo_EIwHSd4)
+- [Criando um blockchain](https://www.youtube.com/watch?v=zVqczFZr124)
+- [Blockchain Completão](https://www.youtube.com/watch?v=Lx9zgZCMqXE&t=15s)
+
 
 ---
 
