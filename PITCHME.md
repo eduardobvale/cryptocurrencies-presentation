@@ -46,9 +46,9 @@ Exchanges (Câmbio)
 ![](https://d1ic4altzx8ueg.cloudfront.net/finder-us/wp-uploads/2017/09/Exodus-wallet-interface-screenshot.png)
 
 
----
+---?image=https://cdn-images-1.medium.com/max/800/1*jQV4HSp5PE0lnd2ipNfzZg.jpeg
 
-### E eu posso ficar rico com bitcoin?
+### Achou que ia ficar rico?
 
 - [Mercado financeiro](https://br.tradingview.com/symbols/BTCUSD/)
 - Invista em conhecimento
@@ -63,10 +63,9 @@ Blockchain
 ---
 
 ### Blockchain só serve pra bitcoin?
-
-- [Altcoins](https://coinmarketcap.com/pt-br/all/views/all/)
-- ICOs
-- Tudo que se faz em cartorio
+  - [Altcoins](https://coinmarketcap.com/pt-br/all/views/all/)
+  - ICOs
+  - Tudo que se faz em cartorio
 
 ---
 
