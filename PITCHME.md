@@ -49,7 +49,7 @@ Exchanges (Câmbio)
 
 ### Achou que ia ficar rico?
 
----?image=https://cdn-images-1.medium.com/max/800/1*jQV4HSp5PE0lnd2ipNfzZg.jpeg
+---?image=https://cdn-images-1.medium.com/max/800/1*jQV4HSp5PE0lnd2ipNfzZg.jpeg&size=auto
 
 ---
 
