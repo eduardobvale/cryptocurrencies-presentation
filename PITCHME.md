@@ -48,9 +48,30 @@ Exchanges (Câmbio)
 
 ---
 
-##E eu posso ficar rico com bitcoin?
+E eu posso ficar rico com bitcoin?
 
-- mercado financeiro e investimentos - https://br.tradingview.com/symbols/BTCUSD/
-- invista em conhecimento
+- Mercado financeiro - https://br.tradingview.com/symbols/BTCUSD/
+- Invista em conhecimento
+
+---
+
+E como é que isso funciona sem um banco? Quem controla esta bagaça?
+- Blockchain: Descentralização baseada na rede e criptografia
+
+
+---
+
+#Blockchain só serve pra bitcoin?
+  - Altcoins
+  https://coinmarketcap.com/pt-br/all/views/all/
+  - ICOs
+  - Tudo que se faz em cartorio
+
+---
+
+BEM VINDOS AO DINHEIRO DIGITAL, TCHAU
+
+![](https://media.giphy.com/media/fdOA43sHFE6Pu/giphy.gif)
+
 
 ---
