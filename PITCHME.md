@@ -23,7 +23,7 @@
 ### Conteúdo
 
 - Filme: [Rise and Rise of Bitcoin](http://www.imdb.com/title/tt2821314/)
-- Livro: [Mastering Bitcoin](https://www.amazon.com.br/Mastering-Bitcoin-2e-Andreas-Antonopoulos)
+- Livro: [Mastering Bitcoin](https://www.amazon.com.br/Mastering-Bitcoin-2e-Andreas-Antonopoulos/dp/1491954388?tag=goog0ef-20&smid=A1ZZFT5FULY4LN&ascsubtag=3cebb7a6-0ba8-44f6-ad91-9a81acbad4df)
 
 ---
 
