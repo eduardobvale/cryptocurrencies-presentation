@@ -68,7 +68,7 @@ Exchanges (Câmbio)
 
 ### Conteúdo
 
-- [Explicaço 5 minutos](https://www.youtube.com/watch?v=SSo_EIwHSd4)
+- [Explicação 5 minutos](https://www.youtube.com/watch?v=SSo_EIwHSd4)
 - [Criando um blockchain](https://www.youtube.com/watch?v=zVqczFZr124)
 - [Blockchain Completão](https://www.youtube.com/watch?v=Lx9zgZCMqXE&t=15s)
 
